@@ -190,6 +190,11 @@ header, section {
   border-top-right-radius: 1em;
   border-top-left-radius: 1em;
 }
+.team-image_2 {
+  transition: all 0.3s;
+  border-bottom-left-radius: 1em;
+  border-top-left-radius: 1em;
+}
 
 .team-textbox {
   height: auto;
